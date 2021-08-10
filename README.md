@@ -14,6 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-$ APP_NAME=cv \
-&& git clone https://github.com/tbaltrushaitis/${APP_NAME}.git \
-&& cd ${APP_NAME}
